@@ -16249,7 +16249,7 @@ div#notebook {
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this._id, this); }&#39;</span><span class="p">)</span>
 <span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values; }&#39;</span><span class="p">)</span>
-<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">cities</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;all_cities&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">find</span><span class="p">({}))</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">cities</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;all_cities&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;CountryID&#39;</span><span class="p">:</span> <span class="mi">15</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({}))</span>
 </pre></div>
 
     </div>
@@ -16292,62 +16292,276 @@ div#notebook {
   <tbody>
     <tr>
       <th>0</th>
-      <td>50bebc6114b6500c5cb78fce</td>
-      <td>{'_id': 50bebc6114b6500c5cb78fce, 'CityId': 11...</td>
+      <td>50bebc7714b6500c5cb78ffe</td>
+      <td>{'_id': 50bebc7714b6500c5cb78ffe, 'CityId': 33...</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>50bebc6214b6500c5cb78fcf</td>
-      <td>{'_id': 50bebc6214b6500c5cb78fcf, 'CityId': 11...</td>
+      <td>50bebc7714b6500c5cb78fff</td>
+      <td>{'_id': 50bebc7714b6500c5cb78fff, 'CityId': 33...</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>50bebc6214b6500c5cb78fd0</td>
-      <td>{'_id': 50bebc6214b6500c5cb78fd0, 'CityId': 11...</td>
+      <td>50bebc7814b6500c5cb79000</td>
+      <td>{'_id': 50bebc7814b6500c5cb79000, 'CityId': 33...</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>50bebc6214b6500c5cb78fd1</td>
-      <td>{'_id': 50bebc6214b6500c5cb78fd1, 'CityId': 11...</td>
+      <td>50bebc7814b6500c5cb79001</td>
+      <td>{'_id': 50bebc7814b6500c5cb79001, 'CityId': 33...</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>50bebc6314b6500c5cb78fd2</td>
-      <td>{'_id': 50bebc6314b6500c5cb78fd2, 'CityId': 11...</td>
+      <td>50bebc7814b6500c5cb79002</td>
+      <td>{'_id': 50bebc7814b6500c5cb79002, 'CityId': 33...</td>
     </tr>
     <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
+      <th>5</th>
+      <td>50bebc7914b6500c5cb79003</td>
+      <td>{'_id': 50bebc7914b6500c5cb79003, 'CityId': 33...</td>
     </tr>
     <tr>
-      <th>1995</th>
-      <td>50bebfb614b6500c5cb79799</td>
-      <td>{'_id': 50bebfb614b6500c5cb79799, 'CityId': 42...</td>
+      <th>6</th>
+      <td>50bebc7914b6500c5cb79004</td>
+      <td>{'_id': 50bebc7914b6500c5cb79004, 'CityId': 33...</td>
     </tr>
     <tr>
-      <th>1996</th>
-      <td>50bebfb714b6500c5cb7979a</td>
-      <td>{'_id': 50bebfb714b6500c5cb7979a, 'CityId': 42...</td>
+      <th>7</th>
+      <td>50bebc7914b6500c5cb79005</td>
+      <td>{'_id': 50bebc7914b6500c5cb79005, 'CityId': 33...</td>
     </tr>
     <tr>
-      <th>1997</th>
-      <td>50bebfb714b6500c5cb7979b</td>
-      <td>{'_id': 50bebfb714b6500c5cb7979b, 'CityId': 42...</td>
+      <th>8</th>
+      <td>50bebc7a14b6500c5cb79006</td>
+      <td>{'_id': 50bebc7a14b6500c5cb79006, 'CityId': 33...</td>
     </tr>
     <tr>
-      <th>1998</th>
-      <td>50bebfb714b6500c5cb7979c</td>
-      <td>{'_id': 50bebfb714b6500c5cb7979c, 'CityId': 42...</td>
+      <th>9</th>
+      <td>50bebde014b6500c5cb79340</td>
+      <td>{'_id': 50bebde014b6500c5cb79340, 'CityId': 60...</td>
     </tr>
     <tr>
-      <th>1999</th>
+      <th>10</th>
+      <td>50bebde014b6500c5cb79341</td>
+      <td>{'_id': 50bebde014b6500c5cb79341, 'CityId': 60...</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>50bebe1d14b6500c5cb793db</td>
+      <td>{'_id': 50bebe1d14b6500c5cb793db, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>50bebe1f14b6500c5cb793e1</td>
+      <td>{'_id': 50bebe1f14b6500c5cb793e1, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>50bebe2314b6500c5cb793e9</td>
+      <td>{'_id': 50bebe2314b6500c5cb793e9, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>50bebe2414b6500c5cb793ea</td>
+      <td>{'_id': 50bebe2414b6500c5cb793ea, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>50bebe3314b6500c5cb79414</td>
+      <td>{'_id': 50bebe3314b6500c5cb79414, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>50bebe3914b6500c5cb79422</td>
+      <td>{'_id': 50bebe3914b6500c5cb79422, 'CityId': 12...</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>50bebe4b14b6500c5cb79451</td>
+      <td>{'_id': 50bebe4b14b6500c5cb79451, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>50bebe4d14b6500c5cb79457</td>
+      <td>{'_id': 50bebe4d14b6500c5cb79457, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>50bebe4f14b6500c5cb7945d</td>
+      <td>{'_id': 50bebe4f14b6500c5cb7945d, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>50bebe5514b6500c5cb7946c</td>
+      <td>{'_id': 50bebe5514b6500c5cb7946c, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>50bebe5714b6500c5cb79471</td>
+      <td>{'_id': 50bebe5714b6500c5cb79471, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>50bebe6014b6500c5cb79482</td>
+      <td>{'_id': 50bebe6014b6500c5cb79482, 'CityId': 13...</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>50bebe7a14b6500c5cb794c3</td>
+      <td>{'_id': 50bebe7a14b6500c5cb794c3, 'CityId': 14...</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>50bebe8d14b6500c5cb794ee</td>
+      <td>{'_id': 50bebe8d14b6500c5cb794ee, 'CityId': 14...</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>50bebe9014b6500c5cb794f3</td>
+      <td>{'_id': 50bebe9014b6500c5cb794f3, 'CityId': 14...</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>50bebe9a14b6500c5cb79508</td>
+      <td>{'_id': 50bebe9a14b6500c5cb79508, 'CityId': 14...</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>50bebe9f14b6500c5cb79517</td>
+      <td>{'_id': 50bebe9f14b6500c5cb79517, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>50bebeaf14b6500c5cb79541</td>
+      <td>{'_id': 50bebeaf14b6500c5cb79541, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>50bebeb314b6500c5cb7954c</td>
+      <td>{'_id': 50bebeb314b6500c5cb7954c, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>50bebeb814b6500c5cb79559</td>
+      <td>{'_id': 50bebeb814b6500c5cb79559, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>50bebebc14b6500c5cb79563</td>
+      <td>{'_id': 50bebebc14b6500c5cb79563, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>50bebed414b6500c5cb79581</td>
+      <td>{'_id': 50bebed414b6500c5cb79581, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>50bebedc14b6500c5cb79597</td>
+      <td>{'_id': 50bebedc14b6500c5cb79597, 'CityId': 15...</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>50bebefa14b6500c5cb795e2</td>
+      <td>{'_id': 50bebefa14b6500c5cb795e2, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>50bebefe14b6500c5cb795eb</td>
+      <td>{'_id': 50bebefe14b6500c5cb795eb, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>50bebf0414b6500c5cb795fb</td>
+      <td>{'_id': 50bebf0414b6500c5cb795fb, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>50bebf0414b6500c5cb795fc</td>
+      <td>{'_id': 50bebf0414b6500c5cb795fc, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>50bebf0514b6500c5cb795ff</td>
+      <td>{'_id': 50bebf0514b6500c5cb795ff, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>50bebf0614b6500c5cb79600</td>
+      <td>{'_id': 50bebf0614b6500c5cb79600, 'CityId': 16...</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>50bebf0f14b6500c5cb79619</td>
+      <td>{'_id': 50bebf0f14b6500c5cb79619, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>50bebf1314b6500c5cb7961e</td>
+      <td>{'_id': 50bebf1314b6500c5cb7961e, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>50bebf1414b6500c5cb79623</td>
+      <td>{'_id': 50bebf1414b6500c5cb79623, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>50bebf1614b6500c5cb79627</td>
+      <td>{'_id': 50bebf1614b6500c5cb79627, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>50bebf1614b6500c5cb79628</td>
+      <td>{'_id': 50bebf1614b6500c5cb79628, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>50bebf1914b6500c5cb79630</td>
+      <td>{'_id': 50bebf1914b6500c5cb79630, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>50bebf1d14b6500c5cb79638</td>
+      <td>{'_id': 50bebf1d14b6500c5cb79638, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>50bebf3214b6500c5cb7966c</td>
+      <td>{'_id': 50bebf3214b6500c5cb7966c, 'CityId': 17...</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>50bebf5114b6500c5cb796a2</td>
+      <td>{'_id': 50bebf5114b6500c5cb796a2, 'CityId': 18...</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>50bebf6c14b6500c5cb796e6</td>
+      <td>{'_id': 50bebf6c14b6500c5cb796e6, 'CityId': 41...</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>50bebf7e14b6500c5cb7970f</td>
+      <td>{'_id': 50bebf7e14b6500c5cb7970f, 'CityId': 41...</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>50bebf8614b6500c5cb79726</td>
+      <td>{'_id': 50bebf8614b6500c5cb79726, 'CityId': 41...</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>50bebf8f14b6500c5cb7973b</td>
+      <td>{'_id': 50bebf8f14b6500c5cb7973b, 'CityId': 42...</td>
+    </tr>
+    <tr>
+      <th>53</th>
       <td>50bebfb814b6500c5cb7979d</td>
       <td>{'_id': 50bebfb814b6500c5cb7979d, 'CityId': 42...</td>
     </tr>
   </tbody>
 </table>
-<p>2000 rows × 2 columns</p>
 </div>
 </div>
 
@@ -16378,7 +16592,7 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this._id, this.City); }&#39;</span><span class="p">)</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s2">&quot;&quot;&quot;function (key, values) { return values; }&quot;&quot;&quot;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values; }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">cities</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;city_names_duplicates&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;CountryID&#39;</span><span class="p">:</span> <span class="mi">15</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
@@ -16668,7 +16882,7 @@ div#notebook {
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.City, this.City); }&#39;</span><span class="p">)</span>
 <span class="c1"># just use first entry of values-list</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s2">&quot;&quot;&quot;function (key, values) { return values[0]; }&quot;&quot;&quot;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values[0]; }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">cities</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;city_names_no_duplicates&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;CountryID&#39;</span><span class="p">:</span> <span class="mi">15</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
@@ -16946,7 +17160,7 @@ div#notebook {
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.CurrencyCode, this.Population); }&#39;</span><span class="p">)</span>
 <span class="c1"># just use first entry of values-list</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s2">&quot;&quot;&quot;function (key, values) { return values[0]; }&quot;&quot;&quot;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values[0]; }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;currency_code_euro&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;CurrencyCode&#39;</span><span class="p">:</span> <span class="s1">&#39;EUR&#39;</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
@@ -17009,7 +17223,7 @@ div#notebook {
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.Currency, this.Population); }&#39;</span><span class="p">)</span>
 <span class="c1"># just use first entry of values-list</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s2">&quot;&quot;&quot;function (key, values) { return values[0]; }&quot;&quot;&quot;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values[0]; }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;currency_euro&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;Currency&#39;</span><span class="p">:</span> <span class="s1">&#39;Euro&#39;</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
