@@ -1,0 +1,324 @@
+{
+	"_id": {
+		"$oid": "50bebc7714b6500c5cb78ffe"
+	},
+	"value": "Abtenau"
+}
+{
+	"_id": {
+		"$oid": "50bebc7714b6500c5cb78fff"
+	},
+	"value": "Graz"
+}
+{
+	"_id": {
+		"$oid": "50bebc7814b6500c5cb79000"
+	},
+	"value": "Kitzbuhel"
+}
+{
+	"_id": {
+		"$oid": "50bebc7814b6500c5cb79001"
+	},
+	"value": "Lilienfeld"
+}
+{
+	"_id": {
+		"$oid": "50bebc7814b6500c5cb79002"
+	},
+	"value": "Linz"
+}
+{
+	"_id": {
+		"$oid": "50bebc7914b6500c5cb79003"
+	},
+	"value": "Salzburg"
+}
+{
+	"_id": {
+		"$oid": "50bebc7914b6500c5cb79004"
+	},
+	"value": "Solden"
+}
+{
+	"_id": {
+		"$oid": "50bebc7914b6500c5cb79005"
+	},
+	"value": "Stegersbach"
+}
+{
+	"_id": {
+		"$oid": "50bebc7a14b6500c5cb79006"
+	},
+	"value": "Steyr"
+}
+{
+	"_id": {
+		"$oid": "50bebde014b6500c5cb79340"
+	},
+	"value": "Innsbruck"
+}
+{
+	"_id": {
+		"$oid": "50bebde014b6500c5cb79341"
+	},
+	"value": "Vienna"
+}
+{
+	"_id": {
+		"$oid": "50bebe1d14b6500c5cb793db"
+	},
+	"value": "Hohenems"
+}
+{
+	"_id": {
+		"$oid": "50bebe1f14b6500c5cb793e1"
+	},
+	"value": "Bregenz"
+}
+{
+	"_id": {
+		"$oid": "50bebe2314b6500c5cb793e9"
+	},
+	"value": "Baden"
+}
+{
+	"_id": {
+		"$oid": "50bebe2414b6500c5cb793ea"
+	},
+	"value": "D"
+}
+{
+	"_id": {
+		"$oid": "50bebe3314b6500c5cb79414"
+	},
+	"value": "Zirl"
+}
+{
+	"_id": {
+		"$oid": "50bebe3914b6500c5cb79422"
+	},
+	"value": "W"
+}
+{
+	"_id": {
+		"$oid": "50bebe4b14b6500c5cb79451"
+	},
+	"value": "Korneuburg"
+}
+{
+	"_id": {
+		"$oid": "50bebe4d14b6500c5cb79457"
+	},
+	"value": "Wieselburg"
+}
+{
+	"_id": {
+		"$oid": "50bebe4f14b6500c5cb7945d"
+	},
+	"value": "Pinkafeld"
+}
+{
+	"_id": {
+		"$oid": "50bebe5514b6500c5cb7946c"
+	},
+	"value": "Jochberg"
+}
+{
+	"_id": {
+		"$oid": "50bebe5714b6500c5cb79471"
+	},
+	"value": "Wiener Neustadt"
+}
+{
+	"_id": {
+		"$oid": "50bebe6014b6500c5cb79482"
+	},
+	"value": "Zwettl "
+}
+{
+	"_id": {
+		"$oid": "50bebe7a14b6500c5cb794c3"
+	},
+	"value": "Leoben"
+}
+{
+	"_id": {
+		"$oid": "50bebe8d14b6500c5cb794ee"
+	},
+	"value": "Feldkirchen"
+}
+{
+	"_id": {
+		"$oid": "50bebe9014b6500c5cb794f3"
+	},
+	"value": "Dornbirn"
+}
+{
+	"_id": {
+		"$oid": "50bebe9a14b6500c5cb79508"
+	},
+	"value": "Bad Hall"
+}
+{
+	"_id": {
+		"$oid": "50bebe9f14b6500c5cb79517"
+	},
+	"value": "Neud"
+}
+{
+	"_id": {
+		"$oid": "50bebeaf14b6500c5cb79541"
+	},
+	"value": "Kindberg"
+}
+{
+	"_id": {
+		"$oid": "50bebeb314b6500c5cb7954c"
+	},
+	"value": "Klagenfurt"
+}
+{
+	"_id": {
+		"$oid": "50bebeb814b6500c5cb79559"
+	},
+	"value": "M"
+}
+{
+	"_id": {
+		"$oid": "50bebebc14b6500c5cb79563"
+	},
+	"value": "Neulengbach"
+}
+{
+	"_id": {
+		"$oid": "50bebed414b6500c5cb79581"
+	},
+	"value": "G"
+}
+{
+	"_id": {
+		"$oid": "50bebedc14b6500c5cb79597"
+	},
+	"value": "Retz"
+}
+{
+	"_id": {
+		"$oid": "50bebefa14b6500c5cb795e2"
+	},
+	"value": "Hagenberg"
+}
+{
+	"_id": {
+		"$oid": "50bebefe14b6500c5cb795eb"
+	},
+	"value": "Eisenstadt"
+}
+{
+	"_id": {
+		"$oid": "50bebf0414b6500c5cb795fb"
+	},
+	"value": "Villach"
+}
+{
+	"_id": {
+		"$oid": "50bebf0414b6500c5cb795fc"
+	},
+	"value": "Bodensdorf"
+}
+{
+	"_id": {
+		"$oid": "50bebf0514b6500c5cb795ff"
+	},
+	"value": "Rosental"
+}
+{
+	"_id": {
+		"$oid": "50bebf0614b6500c5cb79600"
+	},
+	"value": "Reutte"
+}
+{
+	"_id": {
+		"$oid": "50bebf0f14b6500c5cb79619"
+	},
+	"value": "Wels"
+}
+{
+	"_id": {
+		"$oid": "50bebf1314b6500c5cb7961e"
+	},
+	"value": "M"
+}
+{
+	"_id": {
+		"$oid": "50bebf1414b6500c5cb79623"
+	},
+	"value": "Tamsweg"
+}
+{
+	"_id": {
+		"$oid": "50bebf1614b6500c5cb79627"
+	},
+	"value": "Bad V"
+}
+{
+	"_id": {
+		"$oid": "50bebf1614b6500c5cb79628"
+	},
+	"value": "Wien"
+}
+{
+	"_id": {
+		"$oid": "50bebf1914b6500c5cb79630"
+	},
+	"value": "G"
+}
+{
+	"_id": {
+		"$oid": "50bebf1d14b6500c5cb79638"
+	},
+	"value": "Grafenbach"
+}
+{
+	"_id": {
+		"$oid": "50bebf3214b6500c5cb7966c"
+	},
+	"value": "Sankt P"
+}
+{
+	"_id": {
+		"$oid": "50bebf5114b6500c5cb796a2"
+	},
+	"value": "Zell am See"
+}
+{
+	"_id": {
+		"$oid": "50bebf6c14b6500c5cb796e6"
+	},
+	"value": "Sankt Johann im Pongau"
+}
+{
+	"_id": {
+		"$oid": "50bebf7e14b6500c5cb7970f"
+	},
+	"value": "Ebreichsdorf"
+}
+{
+	"_id": {
+		"$oid": "50bebf8614b6500c5cb79726"
+	},
+	"value": "G"
+}
+{
+	"_id": {
+		"$oid": "50bebf8f14b6500c5cb7973b"
+	},
+	"value": "Kremsm"
+}
+{
+	"_id": {
+		"$oid": "50bebfb814b6500c5cb7979d"
+	},
+	"value": "Klosterneuburg "
+}

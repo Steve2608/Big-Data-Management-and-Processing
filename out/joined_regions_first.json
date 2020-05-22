@@ -1,0 +1,2467 @@
+{
+	"_id": 1.0,
+	"value": {
+		"Country": "Afghanistan",
+		"Region": [
+			"Badakhshan",
+			"Badghis",
+			"Baghlan",
+			"Bamian",
+			"Farah",
+			"Faryab",
+			"Ghazni",
+			"Ghowr",
+			"Helmand",
+			"Herat",
+			"Kabol",
+			"Kapisa",
+			"Konar",
+			"Laghman",
+			"Lowgar",
+			"Nangarhar",
+			"Nimruz",
+			"Oruzgan",
+			"Paktia",
+			"Parvan",
+			"Kandahar",
+			"Kondoz",
+			"Takhar",
+			"Vardak",
+			"Zabol",
+			"Paktika",
+			"Balkh",
+			"Jowzjan",
+			"Samangan",
+			"Sare Pol",
+			"Khost",
+			"Nuristan"
+		]
+	}
+}
+{
+	"_id": 2.0,
+	"value": {
+		"Country": "Albania",
+		"Region": [
+			"Albania",
+			"Berat",
+			"Diber",
+			"Durres",
+			"Elbasan",
+			"Fier",
+			"Gjirokaster",
+			"Gramsh",
+			"Kolonje",
+			"Korce",
+			"Kruje",
+			"Kukes",
+			"Lezhe",
+			"Librazhd",
+			"Lushnje",
+			"Mat",
+			"Mirdite",
+			"Permet",
+			"Pogradec",
+			"Puke",
+			"Sarande",
+			"Shkoder",
+			"Skrapar",
+			"Tepelene",
+			"Tropoje",
+			"Vlore",
+			"Tiran",
+			"Bulqize",
+			"Delvine",
+			"Devoll",
+			"Has",
+			"Kavaje",
+			"Kucove",
+			"Kurbin",
+			"Malesi e Madhe",
+			"Mallakaster",
+			"Peqin",
+			"Tirane"
+		]
+	}
+}
+{
+	"_id": 3.0,
+	"value": {
+		"Country": "Algeria",
+		"Region": [
+			"Algeria",
+			"Alger",
+			"Batna",
+			"Constantine",
+			"Medea",
+			"Mostaganem",
+			"Oran",
+			"Saida",
+			"Setif",
+			"Tiaret",
+			"Tizi Ouzou",
+			"Tlemcen",
+			"Bejaia",
+			"Biskra",
+			"Blida",
+			"Bouira",
+			"Djelfa",
+			"Guelma",
+			"Jijel",
+			"Laghouat",
+			"Mascara",
+			"M'Sila",
+			"Oum el Bouaghi",
+			"Sidi Bel Abbes",
+			"Skikda",
+			"Tebessa",
+			"Adrar",
+			"Ain Defla",
+			"Ain Temouchent",
+			"Annaba",
+			"Bechar",
+			"Bordj Bou Arreridj",
+			"Boumerdes",
+			"Chlef",
+			"El Bayadh",
+			"El Oued",
+			"El Tarf",
+			"Ghardaia",
+			"Illizi",
+			"Khenchela",
+			"Mila",
+			"Naama",
+			"Ouargla",
+			"Relizane",
+			"Souk Ahras",
+			"Tamanghasset",
+			"Tindouf",
+			"Tipaza",
+			"Tissemsilt"
+		]
+	}
+}
+{
+	"_id": 4.0,
+	"value": {
+		"Country": "American Samoa",
+		"Region": [
+			"American Samoa",
+			"Eastern Tutuila",
+			"Unorganized",
+			"Western Tutuila",
+			"Manu'a"
+		]
+	}
+}
+{
+	"_id": 5.0,
+	"value": {
+		"Country": "Andorra",
+		"Region": [
+			"Andorra",
+			"Andorra la Vella",
+			"Canillo",
+			"Encamp",
+			"La Massana",
+			"Ordino",
+			"Sant Julia de Loria",
+			"Escaldes-Engordany"
+		]
+	}
+}
+{
+	"_id": 6.0,
+	"value": {
+		"Country": "Angola",
+		"Region": [
+			"Angola",
+			"Benguela",
+			"Bie",
+			"Cabinda",
+			"Cuando Cubango",
+			"Cuanza Norte",
+			"Cuanza Sul",
+			"Cunene",
+			"Huambo",
+			"Huila",
+			"Luanda",
+			"Malanje",
+			"Namibe",
+			"Moxico",
+			"Uige",
+			"Zaire",
+			"Lunda Norte",
+			"Lunda Sul",
+			"Bengo"
+		]
+	}
+}
+{
+	"_id": 7.0,
+	"value": {
+		"Country": "Anguilla",
+		"Region": [
+			"Anguilla"
+		]
+	}
+}
+{
+	"_id": 8.0,
+	"value": {
+		"Country": "Antarctica",
+		"Region": [
+			"Antarctica",
+			"Enderby Land",
+			"Ross Island"
+		]
+	}
+}
+{
+	"_id": 9.0,
+	"value": {
+		"Country": "Antigua and Barbuda",
+		"Region": [
+			"Antigua and Barbuda",
+			"Barbuda",
+			"Saint George",
+			"Saint John",
+			"Saint Mary",
+			"Saint Paul",
+			"Saint Peter",
+			"Saint Philip"
+		]
+	}
+}
+{
+	"_id": 10.0,
+	"value": {
+		"Country": "Argentina",
+		"Region": [
+			"Argentina",
+			"Buenos Aires",
+			"Catamarca",
+			"Chaco",
+			"Chubut",
+			"Cordoba",
+			"Corrientes",
+			"Distrito Federal",
+			"Entre Rios",
+			"Formosa",
+			"Jujuy",
+			"La Pampa",
+			"La Rioja",
+			"Mendoza",
+			"Misiones",
+			"Neuquen",
+			"Rio Negro",
+			"Salta",
+			"San Juan",
+			"San Luis",
+			"Santa Cruz",
+			"Santa Fe",
+			"Santiago del Estero",
+			"Antartida e Islas del Atlan Tierra del Fuego",
+			"Tucuman"
+		]
+	}
+}
+{
+	"_id": 11.0,
+	"value": {
+		"Country": "Armenia",
+		"Region": [
+			"Armenia",
+			"Aragatsotn",
+			"Ararat",
+			"Armavir",
+			"Geghark'unik'",
+			"Kotayk'",
+			"Lorri",
+			"Shirak",
+			"Syunik'",
+			"Tavush",
+			"Vayots' Dzor",
+			"Yerevan"
+		]
+	}
+}
+{
+	"_id": 12.0,
+	"value": {
+		"Country": "Aruba",
+		"Region": [
+			"Aruba"
+		]
+	}
+}
+{
+	"_id": 13.0,
+	"value": {
+		"Country": "Ashmore and Cartier",
+		"Region": [
+			"Ashmore and Cartier"
+		]
+	}
+}
+{
+	"_id": 15.0,
+	"value": {
+		"Country": "Austria",
+		"Region": [
+			"Austria",
+			"Burgenland",
+			"Karnten",
+			"Niederosterreich",
+			"Oberosterreich",
+			"Salzburg",
+			"Steiermark",
+			"Tirol",
+			"Vorarlberg",
+			"Wien"
+		]
+	}
+}
+{
+	"_id": 16.0,
+	"value": {
+		"Country": "Azerbaijan",
+		"Region": [
+			"Azerbaijan",
+			"Abseron",
+			"Agcabadi",
+			"Agdam",
+			"Agdas",
+			"Agstafa",
+			"Agsu",
+			"Ali Bayramli",
+			"Astara",
+			"Baki",
+			"Balakan",
+			"Barda",
+			"Beylaqan",
+			"Bilasuvar",
+			"Cabrayil",
+			"Calilabad",
+			"Daskasan",
+			"Davaci",
+			"Fuzuli",
+			"Gadabay",
+			"Goranboy",
+			"Goycay",
+			"Ganca",
+			"Haciqabul",
+			"Imisli",
+			"Ismayilli",
+			"Kalbacar",
+			"Kurdamir",
+			"Lacin",
+			"Lankaran",
+			"Lerik",
+			"Masalli",
+			"Mingacevir",
+			"Naftalan",
+			"Naxcivan",
+			"Neftcala",
+			"Oguz",
+			"Qabala",
+			"Qax",
+			"Qazax",
+			"Qobustan",
+			"Quba",
+			"Qubadli",
+			"Qusar",
+			"Saatli",
+			"Sabirabad",
+			"Saki",
+			"Salyan",
+			"Samaxi",
+			"Samkir",
+			"Samux",
+			"Siyazan",
+			"Sumqayit",
+			"Susa",
+			"Tartar",
+			"Tovuz",
+			"Ucar",
+			"Xacmaz",
+			"Xankandi",
+			"Xanlar",
+			"Xizi",
+			"Xocali",
+			"Xocavand",
+			"Yardimli",
+			"Yevlax",
+			"Zangilan",
+			"Zaqatala",
+			"Zardab",
+			"Sarur",
+			"Sahbuz",
+			"Sadarak",
+			"Ordubud",
+			"Babak"
+		]
+	}
+}
+{
+	"_id": 17.0,
+	"value": {
+		"Country": "The Bahamas",
+		"Region": [
+			"The Bahamas",
+			"Bimini",
+			"Cat Island",
+			"Exuma",
+			"Inagua",
+			"Long Island",
+			"Mayaguana",
+			"Ragged Island",
+			"Harbour Island",
+			"New Providence",
+			"Acklins and Crooked Islands",
+			"Freeport",
+			"Fresh Creek",
+			"Governor's Harbour",
+			"Green Turtle Cay",
+			"High Rock",
+			"Kemps Bay",
+			"Marsh Harbour",
+			"Nichollstown and Berry Islands",
+			"Rock Sound",
+			"Sandy Point",
+			"San Salvador and Rum Cay"
+		]
+	}
+}
+{
+	"_id": 18.0,
+	"value": {
+		"Country": "Bahrain",
+		"Region": [
+			"Bahrain",
+			"Al Hadd",
+			"Al Manamah",
+			"Al Muharraq",
+			"Jidd Hafs",
+			"Sitrah",
+			"Al Mintaqah al Gharbiyah",
+			"Mintaqat Juzur Hawar",
+			"Al Mintaqah ash Shamaliyah",
+			"Al Mintaqah al Wusta",
+			"Madinat Isa",
+			"Madinat Hamad",
+			"Ar Rifa' wa al Mintaqah al Janubiyah"
+		]
+	}
+}
+{
+	"_id": 19.0,
+	"value": {
+		"Country": "Baker Island",
+		"Region": [
+			"Baker Island"
+		]
+	}
+}
+{
+	"_id": 20.0,
+	"value": {
+		"Country": "Bangladesh",
+		"Region": [
+			"Bangladesh",
+			"Chittagong",
+			"Dhaka",
+			"Khulna",
+			"Rajshahi",
+			"Barisal",
+			"Sylhet"
+		]
+	}
+}
+{
+	"_id": 21.0,
+	"value": {
+		"Country": "Barbados",
+		"Region": [
+			"Barbados",
+			"Christ Church",
+			"Saint Andrew",
+			"Saint George",
+			"Saint James",
+			"Saint John",
+			"Saint Joseph",
+			"Saint Lucy",
+			"Saint Michael",
+			"Saint Peter",
+			"Saint Philip",
+			"Saint Thomas"
+		]
+	}
+}
+{
+	"_id": 22.0,
+	"value": {
+		"Country": "Bassas da India",
+		"Region": [
+			"Bassas da India"
+		]
+	}
+}
+{
+	"_id": 23.0,
+	"value": {
+		"Country": "Belarus",
+		"Region": [
+			"Belarus",
+			"Brestskaya Voblasts'",
+			"Homyel'skaya Voblasts'",
+			"Hrodzyenskaya Voblasts'",
+			"Minsk",
+			"Minskaya Voblasts'",
+			"Mahilyowskaya Voblasts'",
+			"Vitsyebskaya Voblasts'"
+		]
+	}
+}
+{
+	"_id": 24.0,
+	"value": {
+		"Country": "Belgium",
+		"Region": [
+			"Belgium",
+			"Antwerpen",
+			"Hainaut",
+			"Liege",
+			"Limburg",
+			"Luxembourg",
+			"Namur",
+			"Oost-Vlaanderen",
+			"West-Vlaanderen",
+			"Brussels",
+			"Brabant Wallon",
+			"Vlaams-Brabant"
+		]
+	}
+}
+{
+	"_id": 25.0,
+	"value": {
+		"Country": "Belize",
+		"Region": [
+			"Belize",
+			"Cayo",
+			"Corozal",
+			"Orange Walk",
+			"Stann Creek",
+			"Toledo"
+		]
+	}
+}
+{
+	"_id": 26.0,
+	"value": {
+		"Country": "Benin",
+		"Region": [
+			"Benin",
+			"Atakora",
+			"Atlantique",
+			"Borgou",
+			"Mono",
+			"Oueme",
+			"Zou",
+			"Plateau",
+			"Littoral",
+			"Donga",
+			"Couffo",
+			"Collines",
+			"Alibori"
+		]
+	}
+}
+{
+	"_id": 27.0,
+	"value": {
+		"Country": "Bermuda",
+		"Region": [
+			"Bermuda",
+			"Devonshire",
+			"Hamilton Municipality",
+			"Paget",
+			"Pembroke",
+			"Saint George",
+			"Saint George's",
+			"Sandys",
+			"Smiths",
+			"Southampton",
+			"Warwick",
+			"Hamilton"
+		]
+	}
+}
+{
+	"_id": 28.0,
+	"value": {
+		"Country": "Bhutan",
+		"Region": [
+			"Bhutan",
+			"Bumthang",
+			"Chhukha",
+			"Chirang",
+			"Daga",
+			"Geylegphug",
+			"Ha",
+			"Lhuntshi",
+			"Mongar",
+			"Paro",
+			"Pemagatsel",
+			"Punakha",
+			"Samchi",
+			"Samdrup",
+			"Shemgang",
+			"Tashigang",
+			"Thimphu",
+			"Tongsa",
+			"Wangdi Phodrang",
+			"Tashi Yangtse",
+			"Gasa"
+		]
+	}
+}
+{
+	"_id": 29.0,
+	"value": {
+		"Country": "Bolivia",
+		"Region": [
+			"Bolivia",
+			"Chuquisaca",
+			"Cochabamba",
+			"El Beni",
+			"La Paz",
+			"Oruro",
+			"Pando",
+			"Potosi",
+			"Santa Cruz",
+			"Tarija"
+		]
+	}
+}
+{
+	"_id": 30.0,
+	"value": {
+		"Country": "Bosnia and Herzegovina",
+		"Region": [
+			"Bosnia and Herzegovina",
+			"Republika Srpska",
+			"Federation of Bosnia and Herzegovina",
+			"Brcko District"
+		]
+	}
+}
+{
+	"_id": 31.0,
+	"value": {
+		"Country": "Botswana",
+		"Region": [
+			"Botswana",
+			"Central",
+			"Chobe",
+			"Ghanzi",
+			"Kgalagadi",
+			"Kgatleng",
+			"Kweneng",
+			"Ngamiland",
+			"NorthEast",
+			"SouthEast",
+			"Southern"
+		]
+	}
+}
+{
+	"_id": 32.0,
+	"value": {
+		"Country": "Bouvet Island",
+		"Region": [
+			"Bouvet Island"
+		]
+	}
+}
+{
+	"_id": 33.0,
+	"value": {
+		"Country": "Brazil",
+		"Region": [
+			"Bahia",
+			"Piau",
+			"Acre",
+			"Paran",
+			"Cear",
+			"Alagoas",
+			"Para",
+			"Roraima",
+			"Sergipe",
+			"Amazonas",
+			"Maranh",
+			"Rond",
+			"Tocantins",
+			"S",
+			"Mato Grosso",
+			"Goi",
+			"Minas Gerais",
+			"Rio Grande do Sul",
+			"Esp",
+			"Rio de Janeiro",
+			"Amap",
+			"Mato Grosso do Sul",
+			"Santa Catarina",
+			"Rio Grande do Norte",
+			"Brazil",
+			"Distrito Federal",
+			"Paro",
+			"Pernambuco",
+			"AOL"
+		]
+	}
+}
+{
+	"_id": 34.0,
+	"value": {
+		"Country": "British Indian Ocean Territory",
+		"Region": [
+			"British Indian Ocean Territory"
+		]
+	}
+}
+{
+	"_id": 35.0,
+	"value": {
+		"Country": "British Virgin Islands",
+		"Region": [
+			"British Virgin Islands"
+		]
+	}
+}
+{
+	"_id": 36.0,
+	"value": {
+		"Country": "Brunei Darussalam",
+		"Region": [
+			"Brunei Darussalam",
+			"Belait",
+			"Brunei and Muara",
+			"Temburong",
+			"Tutong"
+		]
+	}
+}
+{
+	"_id": 37.0,
+	"value": {
+		"Country": "Bulgaria",
+		"Region": [
+			"Bulgaria",
+			"Burgas",
+			"Sofiya-Grad",
+			"Khaskovo",
+			"Lovech",
+			"Montana",
+			"Plovdiv",
+			"Razgrad",
+			"Sofiya",
+			"Varna",
+			"Blagoevgrad",
+			"Dobrich",
+			"Gabrovo ",
+			"Kurdzhali",
+			"Kyustendil",
+			"Pazardzhik",
+			"Pernik",
+			"Pleven",
+			"Ruse",
+			"Shumen",
+			"Silistra",
+			"Sliven",
+			"Smolyan",
+			"Stara Zagora",
+			"Turgovishte",
+			"Veliko Turnovo",
+			"Vidin",
+			"Vratsa",
+			"Yambol"
+		]
+	}
+}
+{
+	"_id": 38.0,
+	"value": {
+		"Country": "Burkina Faso",
+		"Region": [
+			"Burkina Faso",
+			"Bam",
+			"Bazega",
+			"Bougouriba",
+			"Boulgou",
+			"Boulkiemde",
+			"Ganzourgou",
+			"Gnagna",
+			"Gourma",
+			"Houe",
+			"Kadiogo",
+			"Kenedougou",
+			"Komoe",
+			"Kossi",
+			"Kouritenga",
+			"Mouhoun",
+			"Namentenga",
+			"Naouri",
+			"Oubritenga",
+			"Oudalan",
+			"Passore",
+			"Poni",
+			"Sanguie",
+			"Sanmatenga",
+			"Seno",
+			"Sissili",
+			"Soum",
+			"Sourou",
+			"Tapoa",
+			"Yatenga",
+			"Zoundweogo",
+			"Bal",
+			"Banwa",
+			"Ioba",
+			"Komondjari",
+			"Kompienga",
+			"Koulp",
+			"Kourw",
+			"L",
+			"Loroum",
+			"Nayala",
+			"Noumbiel",
+			"Tui",
+			"Yagha",
+			"Ziro",
+			"Zondoma"
+		]
+	}
+}
+{
+	"_id": 39.0,
+	"value": {
+		"Country": "Burma",
+		"Region": [
+			"Burma",
+			"Rakhine State",
+			"Chin State",
+			"Ayeyarwady",
+			"Kachin State",
+			"Kayin State",
+			"Kayah State",
+			"Mandalay",
+			"Sagaing",
+			"Shan State",
+			"Tanintharyi",
+			"Mon State",
+			"Magway",
+			"Bago",
+			"Yangon"
+		]
+	}
+}
+{
+	"_id": 40.0,
+	"value": {
+		"Country": "Burundi",
+		"Region": [
+			"Burundi",
+			"Bujumbura",
+			"Muramvya",
+			"Bubanza",
+			"Bururi",
+			"Cankuzo",
+			"Cibitoke",
+			"Gitega",
+			"Karuzi",
+			"Kayanza",
+			"Kirundo",
+			"Makamba",
+			"Muyinga",
+			"Ngozi",
+			"Rutana",
+			"Ruyigi",
+			"Mwaro"
+		]
+	}
+}
+{
+	"_id": 41.0,
+	"value": {
+		"Country": "Cambodia",
+		"Region": [
+			"Cambodia",
+			"Batdambang",
+			"Kampong Cham",
+			"Kampong Chhnang",
+			"Kampong Spoe",
+			"Kampong Thum",
+			"Kampot",
+			"Kandal",
+			"Kaoh Kong",
+			"Krachen",
+			"Mondol Kiri",
+			"Phnum Penh",
+			"Pouthisat",
+			"Preah Vihear",
+			"Prey Veng",
+			"Stoeng Treng",
+			"Svay Rieng",
+			"Takev",
+			"Rotanah Kiri",
+			"Siem Reab",
+			"Banteay Mean Cheay",
+			"Keb",
+			"Otdar Mean Cheay",
+			"Preah Seihanu",
+			"Pailin"
+		]
+	}
+}
+{
+	"_id": 42.0,
+	"value": {
+		"Country": "Cameroon",
+		"Region": [
+			"Cameroon",
+			"Est",
+			"Littoral",
+			"NordOuest",
+			"Ouest",
+			"SudOuest",
+			"Adamaoua",
+			"Centre",
+			"ExtremeNord",
+			"Nord",
+			"Sud"
+		]
+	}
+}
+{
+	"_id": 44.0,
+	"value": {
+		"Country": "Cape Verde",
+		"Region": [
+			"Cape Verde",
+			"Boa Vista",
+			"Brava",
+			"Calheta de S",
+			"Maio",
+			"Paul",
+			"Praia",
+			"Ribeira Grande",
+			"Sal",
+			"Santa Catarina",
+			"Sao Nicolau",
+			"Sao Vicente",
+			"Tarrafal",
+			"Mosteiros",
+			"Porto Novo",
+			"Santa Cruz",
+			"S"
+		]
+	}
+}
+{
+	"_id": 45.0,
+	"value": {
+		"Country": "Cayman Islands",
+		"Region": [
+			"Cayman Islands",
+			"Creek",
+			"Eastern",
+			"Midland",
+			"South Town",
+			"Spot Bay",
+			"Stake Bay",
+			"West End",
+			"Western"
+		]
+	}
+}
+{
+	"_id": 46.0,
+	"value": {
+		"Country": "Central African Republic",
+		"Region": [
+			"Central African Republic",
+			"Bamingui-Bangoran",
+			"Basse-Kotto",
+			"Haute-Kotto",
+			"Haute-Sangha",
+			"Haut-Mbomou",
+			"Kemo-Gribingui",
+			"Lobaye",
+			"Mbomou",
+			"Nana-Mambere",
+			"Ouaka",
+			"Ouham",
+			"Ouham-Pende",
+			"Vakaga",
+			"Gribingui",
+			"Sangha",
+			"Ombella-Mpoko",
+			"Bangui"
+		]
+	}
+}
+{
+	"_id": 47.0,
+	"value": {
+		"Country": "Chad",
+		"Region": [
+			"Chad",
+			"Batha",
+			"Biltine",
+			"Borkou-Ennedi-Tibesti",
+			"ChariBaguirmi",
+			"Guera",
+			"Kanem",
+			"Lac",
+			"Logone Occidental",
+			"Logone Oriental",
+			"Mayo-Kebbi",
+			"Moyen-Chari",
+			"Ouaddai",
+			"Salamat",
+			"Tandjile"
+		]
+	}
+}
+{
+	"_id": 48.0,
+	"value": {
+		"Country": "Chile",
+		"Region": [
+			"Chile",
+			"Valparaiso",
+			"Aisen del General Carlos Ibanez del Campo",
+			"Antofagasta",
+			"Araucania",
+			"Atacama",
+			"Bio-Bio",
+			"Coquimbo",
+			"Libertador General Bernardo O'Higgins",
+			"Los Lagos",
+			"Magallanes y de la Antartica Chilena",
+			"Maule",
+			"Region Metropolitana",
+			"Tarapaca"
+		]
+	}
+}
+{
+	"_id": 50.0,
+	"value": {
+		"Country": "Christmas Island",
+		"Region": [
+			"Christmas Island"
+		]
+	}
+}
+{
+	"_id": 51.0,
+	"value": {
+		"Country": "Clipperton Island",
+		"Region": [
+			"Clipperton Island"
+		]
+	}
+}
+{
+	"_id": 52.0,
+	"value": {
+		"Country": "Cocos (Keeling) Islands",
+		"Region": [
+			"Cocos (Keeling) Islands"
+		]
+	}
+}
+{
+	"_id": 53.0,
+	"value": {
+		"Country": "Colombia",
+		"Region": [
+			"Colombia",
+			"Amazonas",
+			"Antioquia",
+			"Arauca",
+			"Atlantico",
+			"Caqueta",
+			"Cauca",
+			"Cesar",
+			"Choco",
+			"Cordoba",
+			"Guaviare",
+			"Guainia",
+			"Huila",
+			"La Guajira",
+			"Meta",
+			"Narino",
+			"Norte de Santander",
+			"Putumayo",
+			"Quindio",
+			"Risaralda",
+			"San Andres y Providencia",
+			"Santander",
+			"Sucre",
+			"Tolima",
+			"Valle del Cauca",
+			"Vaupes",
+			"Vichada",
+			"Casanare",
+			"Cundinamarca",
+			"Distrito Capital",
+			"Bolivar",
+			"Boyaca",
+			"Caldas",
+			"Magdalena"
+		]
+	}
+}
+{
+	"_id": 54.0,
+	"value": {
+		"Country": "Comoros",
+		"Region": [
+			"Comoros",
+			"Anjouan",
+			"Grande Comore",
+			"Moheli"
+		]
+	}
+}
+{
+	"_id": 55.0,
+	"value": {
+		"Country": "Congo, Democratic Republic of the",
+		"Region": [
+			"Democratic Republic of the Congo",
+			"Bandundu",
+			"Equateur",
+			"Kasai-Occidental",
+			"Kasai-Oriental",
+			"Katanga",
+			"Kinshasa",
+			"Bas-Congo",
+			"Orientale",
+			"Maniema",
+			"Nord-Kivu",
+			"Sud-Kivu"
+		]
+	}
+}
+{
+	"_id": 56.0,
+	"value": {
+		"Country": "Congo, Republic of the",
+		"Region": [
+			"Republic of the Congo",
+			"Bouenza",
+			"Cuvette",
+			"Kouilou",
+			"Lekoumou",
+			"Likouala",
+			"Niari",
+			"Plateaux",
+			"Sangha",
+			"Pool",
+			"Brazzaville"
+		]
+	}
+}
+{
+	"_id": 57.0,
+	"value": {
+		"Country": "Cook Islands",
+		"Region": [
+			"Cook Islands"
+		]
+	}
+}
+{
+	"_id": 58.0,
+	"value": {
+		"Country": "Coral Sea Islands",
+		"Region": [
+			"Coral Sea Islands"
+		]
+	}
+}
+{
+	"_id": 59.0,
+	"value": {
+		"Country": "Costa Rica",
+		"Region": [
+			"Costa Rica",
+			"Alajuela",
+			"Cartago",
+			"Guanacaste",
+			"Heredia",
+			"Limon",
+			"Puntarenas",
+			"San Jose"
+		]
+	}
+}
+{
+	"_id": 60.0,
+	"value": {
+		"Country": "Cote d'Ivoire",
+		"Region": [
+			"Cote d'Ivoire",
+			"Dabakala",
+			"Aboisso",
+			"Adzope",
+			"Agboville",
+			"Biankouma",
+			"Bouna",
+			"Boundiali",
+			"Danane",
+			"Divo",
+			"Ferkessedougou",
+			"Gagnoa",
+			"Katiola",
+			"Korhogo",
+			"Odienne",
+			"Seguela",
+			"Touba",
+			"Bongouanou",
+			"Issia",
+			"Lakota",
+			"Mankono",
+			"Oume",
+			"Soubre",
+			"Tingrela",
+			"Zuenoula",
+			"Abidjan",
+			"Bangolo",
+			"Beoumi",
+			"Bondoukou",
+			"Bouafle",
+			"Bouake",
+			"Daloa",
+			"Daoukro",
+			"Dimbokro",
+			"Duekoue",
+			"Grand-Lahou",
+			"Guiglo",
+			"Man",
+			"Mbahiakro",
+			"Sakassou",
+			"San Pedro",
+			"Sassandra",
+			"Sinfra",
+			"Tabou",
+			"Tanda",
+			"Tiassale",
+			"Toumodi",
+			"Vavoua",
+			"Yamoussoukro",
+			"Agnilbilekrou",
+			"Adiake",
+			"Alepe",
+			"Bocanda",
+			"Dabou",
+			"Grand-Bassam",
+			"Jacqueville",
+			"Toulepleu"
+		]
+	}
+}
+{
+	"_id": 61.0,
+	"value": {
+		"Country": "Croatia",
+		"Region": [
+			"Croatia",
+			"Bjelovarsko-Bilogorska",
+			"Brodsko-Posavka",
+			"Dubrovacko-Neretvanska",
+			"Istarska",
+			"Karlovacka",
+			"Koprivnicko-Krizevacka",
+			"Krapinsko-Zagorska",
+			"Licko-Senjska",
+			"Medimurska",
+			"Osjecko-Baranjska",
+			"Pozesko-Slavonska",
+			"Primorsko-Goranska",
+			"Sibensko-Kninska",
+			"Sisacko-Moslavacka",
+			"Splitsko-Dalmatinska",
+			"Varazdinska",
+			"Viroviticko-Podravska",
+			"Vukovarsko-Srijemska",
+			"Zadarska",
+			"Zagrebacka",
+			"Grad Zagreb"
+		]
+	}
+}
+{
+	"_id": 62.0,
+	"value": {
+		"Country": "Cuba",
+		"Region": [
+			"Cuba",
+			"Pinar del Rio",
+			"Ciudad de La Habana",
+			"Matanzas",
+			"Isla de la Juventud",
+			"Camaguey",
+			"Ciego de Avila",
+			"Cienfuegos",
+			"Granma",
+			"Guantanamo",
+			"La Habana",
+			"Holguin",
+			"Las Tunas",
+			"Sancti Spiritus",
+			"Santiago de Cuba",
+			"Villa Clara"
+		]
+	}
+}
+{
+	"_id": 63.0,
+	"value": {
+		"Country": "Cyprus",
+		"Region": [
+			"Cyprus",
+			"Famagusta",
+			"Kyrenia",
+			"Larnaca",
+			"Nicosia",
+			"Limassol",
+			"Paphos"
+		]
+	}
+}
+{
+	"_id": 64.0,
+	"value": {
+		"Country": "Czech Republic",
+		"Region": [
+			"Czech Republic",
+			"Hlavni Mesto Praha",
+			"Jihomoravsky Kraj",
+			"Jihocesky Kraj",
+			"Vysocina",
+			"Karlovarsky Kraj",
+			"Kralovehradecky Kraj",
+			"Liberecky Kraj",
+			"Olomoucky Kraj",
+			"Moravskoslezsky Kraj",
+			"Pardubicky Kraj",
+			"Plzensky Kraj",
+			"Stredocesky Kraj",
+			"Ustecky Kraj",
+			"Zlinsky Kraj"
+		]
+	}
+}
+{
+	"_id": 65.0,
+	"value": {
+		"Country": "Denmark",
+		"Region": [
+			"Denmark",
+			"Arhus",
+			"Bornholm",
+			"Frederiksborg",
+			"Fyn",
+			"Kobenhavn",
+			"Nordjylland",
+			"Ribe",
+			"Ringkobing",
+			"Roskilde",
+			"Sonderjylland",
+			"Storstrom",
+			"Vejle",
+			"Vestsjalland",
+			"Viborg",
+			"Fredericksberg"
+		]
+	}
+}
+{
+	"_id": 66.0,
+	"value": {
+		"Country": "Djibouti",
+		"Region": [
+			"'Ali Sabih",
+			"Dikhil",
+			"Djibouti",
+			"Obock",
+			"Tadjoura"
+		]
+	}
+}
+{
+	"_id": 67.0,
+	"value": {
+		"Country": "Dominica",
+		"Region": [
+			"Dominica",
+			"Saint Andrew",
+			"Saint David",
+			"Saint George",
+			"Saint John",
+			"Saint Joseph",
+			"Saint Luke",
+			"Saint Mark",
+			"Saint Patrick",
+			"Saint Paul",
+			"Saint Peter"
+		]
+	}
+}
+{
+	"_id": 68.0,
+	"value": {
+		"Country": "Dominican Republic",
+		"Region": [
+			"Dominican Republic",
+			"Azua",
+			"Baoruco",
+			"Barahona",
+			"Dajabon",
+			"Distrito Nacional",
+			"Duarte",
+			"Espaillat",
+			"Independencia",
+			"La Altagracia",
+			"Elias Pina",
+			"La Romana",
+			"Maria Trinidad Sanchez",
+			"Monte Cristi",
+			"Pedernales",
+			"Peravia",
+			"Puerto Plata",
+			"Salcedo",
+			"Samana",
+			"Sanchez Ramirez",
+			"San Juan",
+			"San Pedro de Macoris",
+			"Santiago",
+			"Santiago Rodriguez",
+			"Valverde",
+			"El Seibo",
+			"Hato Mayor",
+			"La Vega",
+			"Monsenor Nouel",
+			"Monte Plata",
+			"San Cristobal"
+		]
+	}
+}
+{
+	"_id": 69.0,
+	"value": {
+		"Country": "East Timor",
+		"Region": [
+			"East Timor"
+		]
+	}
+}
+{
+	"_id": 70.0,
+	"value": {
+		"Country": "Ecuador",
+		"Region": [
+			"Ecuador",
+			"Galapagos",
+			"Azuay",
+			"Bolivar",
+			"Canar",
+			"Carchi",
+			"Chimborazo",
+			"Cotopaxi",
+			"El Oro",
+			"Esmeraldas",
+			"Guayas",
+			"Imbabura",
+			"Loja",
+			"Los Rios",
+			"Manabi",
+			"Morona-Santiago",
+			"Pastaza",
+			"Pichincha",
+			"Tungurahua",
+			"Zamora-Chinchipe",
+			"Napo",
+			"Sucumbios",
+			"Orellana"
+		]
+	}
+}
+{
+	"_id": 71.0,
+	"value": {
+		"Country": "Egypt",
+		"Region": [
+			"Egypt",
+			"Ad Daqahliyah",
+			"Al Bahr al Ahmar",
+			"Al Buhayrah",
+			"Al Fayyum",
+			"Al Gharbiyah",
+			"Al Iskandariyah",
+			"Al Isma'iliyah",
+			"Al Jizah",
+			"Al Minufiyah",
+			"Al Minya",
+			"Al Qahirah",
+			"Al Qaly",
+			"Al Wadi al Jadid",
+			"Ash Sharqiyah",
+			"As Suways",
+			"Aswan",
+			"Asyut",
+			"Bani Suwayf",
+			"Bur Sa'id",
+			"Dumyat",
+			"Kafr ash Shaykh",
+			"Matruh",
+			"Qina",
+			"Suhaj",
+			"Janub Sina'",
+			"Shamal Sina'"
+		]
+	}
+}
+{
+	"_id": 72.0,
+	"value": {
+		"Country": "El Salvador",
+		"Region": [
+			"El Salvador",
+			"Ahuachapan",
+			"Cabanas",
+			"Chalatenango",
+			"Cuscatlan",
+			"La Libertad",
+			"La Paz",
+			"La Union",
+			"Morazan",
+			"San Miguel",
+			"San Salvador",
+			"Santa Ana",
+			"San Vicente",
+			"Sonsonate",
+			"Usulutan"
+		]
+	}
+}
+{
+	"_id": 73.0,
+	"value": {
+		"Country": "Equatorial Guinea",
+		"Region": [
+			"Equatorial Guinea",
+			"Annobon",
+			"Bioko Norte",
+			"Bioko Sur",
+			"Centro Sur",
+			"Kie-Ntem",
+			"Litoral",
+			"Wele-Nzas"
+		]
+	}
+}
+{
+	"_id": 74.0,
+	"value": {
+		"Country": "Eritrea",
+		"Region": [
+			"Eritrea",
+			"Anseba",
+			"Semenawi Keyih Bahri",
+			"Maekel",
+			"Gash Barka",
+			"Debubawi Keyih Bahri",
+			"Debub"
+		]
+	}
+}
+{
+	"_id": 75.0,
+	"value": {
+		"Country": "Estonia",
+		"Region": [
+			"Estonia",
+			"Harjumaa",
+			"Hiiumaa",
+			"Ida-Virumaa",
+			"Jarvamaa",
+			"Jogevamaa",
+			"Laanemaa",
+			"Laane-Virumaa",
+			"Parnumaa",
+			"Polvamaa",
+			"Raplamaa",
+			"Saaremaa",
+			"Tartumaa",
+			"Valgamaa",
+			"Viljandimaa",
+			"Vorumaa"
+		]
+	}
+}
+{
+	"_id": 76.0,
+	"value": {
+		"Country": "Ethiopia",
+		"Region": [
+			"Ethiopia",
+			"Harari People",
+			"Gambela Peoples",
+			"Benshangul-Gumaz",
+			"Tigray",
+			"Amhara",
+			"Afar",
+			"Oromia",
+			"Somali",
+			"Addis Ababa",
+			"Southern Nations"
+		]
+	}
+}
+{
+	"_id": 77.0,
+	"value": {
+		"Country": "Europa Island",
+		"Region": [
+			"Europa Island"
+		]
+	}
+}
+{
+	"_id": 78.0,
+	"value": {
+		"Country": "Falkland Islands (Islas Malvinas)",
+		"Region": [
+			"Falkland Islands (Islas Malvinas)"
+		]
+	}
+}
+{
+	"_id": 79.0,
+	"value": {
+		"Country": "Faroe Islands",
+		"Region": [
+			"Faroe Islands"
+		]
+	}
+}
+{
+	"_id": 80.0,
+	"value": {
+		"Country": "Fiji",
+		"Region": [
+			"Fiji",
+			"Central",
+			"Eastern",
+			"Northern",
+			"Rotuma",
+			"Western"
+		]
+	}
+}
+{
+	"_id": 81.0,
+	"value": {
+		"Country": "Finland",
+		"Region": [
+			"Finland",
+			"Ahvenanmaa",
+			"Lappi",
+			"Oulu Laani",
+			"Etela-Suomen Laani",
+			"Ita-Suomen Laani",
+			"Lansi-Suomen Laani"
+		]
+	}
+}
+{
+	"_id": 82.0,
+	"value": {
+		"Country": "France",
+		"Region": [
+			"France",
+			"Aquitaine",
+			"Auvergne",
+			"Basse-Normandie",
+			"Bourgogne",
+			"Bretagne",
+			"Centre",
+			"Champagne-Ardenne",
+			"Corse",
+			"Franche-Comte",
+			"Haute-Normandie",
+			"Ile-De-France",
+			"Languedoc-Roussillon",
+			"Limousin",
+			"Lorraine",
+			"Midi-Pyrenees",
+			"Nord-Pas-de-Calais",
+			"Pays de la Loire",
+			"Picardie",
+			"Poitou-Charentes",
+			"Provence-Alpes-Cote d'Azur",
+			"Rhone-Alpes",
+			"Alsace"
+		]
+	}
+}
+{
+	"_id": 83.0,
+	"value": {
+		"Country": "France, Metropolitan",
+		"Region": [
+			"Metropolitan France"
+		]
+	}
+}
+{
+	"_id": 84.0,
+	"value": {
+		"Country": "French Guiana",
+		"Region": [
+			"French Guiana",
+			"Saint-Laurent-du-Maroni",
+			"Cayenne"
+		]
+	}
+}
+{
+	"_id": 85.0,
+	"value": {
+		"Country": "French Polynesia",
+		"Region": [
+			"French Polynesia"
+		]
+	}
+}
+{
+	"_id": 86.0,
+	"value": {
+		"Country": "French Southern and Antarctic Lands",
+		"Region": [
+			"French Southern and Antarctic Lands"
+		]
+	}
+}
+{
+	"_id": 87.0,
+	"value": {
+		"Country": "Gabon",
+		"Region": [
+			"Gabon",
+			"Estuaire",
+			"Haut-Ogooue",
+			"Moyen-Ogooue",
+			"Ngounie",
+			"Nyanga",
+			"Ogooue-Ivindo",
+			"Ogooue-Lolo",
+			"Ogooue-Maritime",
+			"Woleu-Ntem"
+		]
+	}
+}
+{
+	"_id": 88.0,
+	"value": {
+		"Country": "The Gambia",
+		"Region": [
+			"The Gambia",
+			"Banjul",
+			"Lower River",
+			"MacCarthy Island",
+			"Upper River",
+			"Western",
+			"North Bank"
+		]
+	}
+}
+{
+	"_id": 89.0,
+	"value": {
+		"Country": "Gaza Strip",
+		"Region": [
+			"Gaza Strip"
+		]
+	}
+}
+{
+	"_id": 90.0,
+	"value": {
+		"Country": "Georgia",
+		"Region": [
+			"Georgia",
+			"Abkhazia",
+			"Ajaria",
+			"T'bilisi",
+			"Guria",
+			"Imereti",
+			"Kakheti",
+			"Kvemo Kartli",
+			"Mtskheta-Mtianeti",
+			"Racha-Lochkhumi-Kvemo Svaneti",
+			"Samegrelo-Zemo Svateni",
+			"Samtskhe-Javakheti",
+			"Shida Kartli"
+		]
+	}
+}
+{
+	"_id": 92.0,
+	"value": {
+		"Country": "Ghana",
+		"Region": [
+			"Ghana",
+			"Greater Accra",
+			"Ashanti",
+			"Brong-Ahafo",
+			"Central",
+			"Eastern",
+			"Northern",
+			"Volta",
+			"Western",
+			"Upper East",
+			"Upper West"
+		]
+	}
+}
+{
+	"_id": 93.0,
+	"value": {
+		"Country": "Gibraltar",
+		"Region": [
+			"Gibraltar"
+		]
+	}
+}
+{
+	"_id": 94.0,
+	"value": {
+		"Country": "Glorioso Islands",
+		"Region": [
+			"Glorioso Islands"
+		]
+	}
+}
+{
+	"_id": 95.0,
+	"value": {
+		"Country": "Greece",
+		"Region": [
+			"Greece",
+			"Evros",
+			"Rodhopi",
+			"Xanthi",
+			"Drama",
+			"Serrai",
+			"Kilkis",
+			"Pella",
+			"Florina",
+			"Kastoria",
+			"Grevena",
+			"Kozani",
+			"Imathia",
+			"Thessaloniki",
+			"Kavala",
+			"Khalkidhiki",
+			"Pieria",
+			"Ioannina",
+			"Thesprotia",
+			"Preveza",
+			"Arta",
+			"Larisa",
+			"Trikala",
+			"Kardhitsa",
+			"Magnisia",
+			"Kerkira",
+			"Levkas",
+			"Kefallinia",
+			"Zakinthos",
+			"Fthiotis",
+			"Evritania",
+			"Aitolia kai Akarnania",
+			"Fokis",
+			"Voiotia",
+			"Evvoia",
+			"Attiki",
+			"Argolis",
+			"Korinthia",
+			"Akhaia",
+			"Ilia",
+			"Messinia",
+			"Arkadhia",
+			"Lakonia",
+			"Khania",
+			"Rethimni",
+			"Iraklion (Crete)",
+			"Lasithi",
+			"Dhodhekanisos",
+			"Samos",
+			"Kikladhes",
+			"Khios",
+			"Lesvos"
+		]
+	}
+}
+{
+	"_id": 96.0,
+	"value": {
+		"Country": "Greenland",
+		"Region": [
+			"Greenland",
+			"Nordgronland",
+			"Ostgronland",
+			"Vestgronland"
+		]
+	}
+}
+{
+	"_id": 97.0,
+	"value": {
+		"Country": "Grenada",
+		"Region": [
+			"Grenada",
+			"Saint Andrew",
+			"Saint David",
+			"Saint George",
+			"Saint John",
+			"Saint Mark",
+			"Saint Patrick",
+			"Carriacou"
+		]
+	}
+}
+{
+	"_id": 98.0,
+	"value": {
+		"Country": "Guadeloupe",
+		"Region": [
+			"Guadeloupe"
+		]
+	}
+}
+{
+	"_id": 99.0,
+	"value": {
+		"Country": "Guam",
+		"Region": [
+			"Guam"
+		]
+	}
+}
+{
+	"_id": 100.0,
+	"value": {
+		"Country": "Guatemala",
+		"Region": [
+			"Alta Verapaz",
+			"Baja Verapaz",
+			"Chimaltenango",
+			"Chiquimula",
+			"El Progreso",
+			"Escuintla",
+			"Guatemala",
+			"Huehuetenango",
+			"Izabal",
+			"Jalapa",
+			"Jutiapa",
+			"Peten",
+			"Quetzaltenango",
+			"Quiche",
+			"Retalhuleu",
+			"Sacatepequez",
+			"San Marcos",
+			"Santa Rosa",
+			"Solola",
+			"Suchitepequez",
+			"Totonicapan",
+			"Zacapa"
+		]
+	}
+}
+{
+	"_id": 101.0,
+	"value": {
+		"Country": "Guernsey",
+		"Region": [
+			"Guernsey"
+		]
+	}
+}
+{
+	"_id": 102.0,
+	"value": {
+		"Country": "Guinea",
+		"Region": [
+			"Guinea",
+			"Beyla",
+			"Boffa",
+			"Boke",
+			"Conakry",
+			"Dabola",
+			"Dalaba",
+			"Dinguiraye",
+			"Dubreka",
+			"Faranah",
+			"Forecariah",
+			"Fria",
+			"Gaoual",
+			"Gueckedou",
+			"Kankan",
+			"Kerouane",
+			"Kindia",
+			"Kissidougou",
+			"Koundara",
+			"Kouroussa",
+			"Labe",
+			"Macenta",
+			"Mali",
+			"Mamou",
+			"Nzerekore",
+			"Pita",
+			"Siguiri",
+			"Telimele",
+			"Tougue",
+			"Yomou",
+			"Mandiana",
+			"Lola",
+			"Lelouma",
+			"Koubia",
+			"Coyah"
+		]
+	}
+}
+{
+	"_id": 103.0,
+	"value": {
+		"Country": "Guinea-Bissau",
+		"Region": [
+			"Guinea-Bissau",
+			"Bafata",
+			"Quinara",
+			"Oio",
+			"Bolama",
+			"Cacheu",
+			"Tombali",
+			"Gabu",
+			"Bissau",
+			"Biombo"
+		]
+	}
+}
+{
+	"_id": 104.0,
+	"value": {
+		"Country": "Guyana",
+		"Region": [
+			"Guyana",
+			"Barima-Waini",
+			"Cuyuni-Mazaruni",
+			"Demerara-Mahaica",
+			"East Berbice-Corentyne",
+			"Essequibo Islands-West Demerara",
+			"Mahaica-Berbice",
+			"Pomeroon-Supenaam",
+			"Potaro-Siparuni",
+			"Upper Demerara-Berbice",
+			"Upper Takutu-Upper Essequibo"
+		]
+	}
+}
+{
+	"_id": 105.0,
+	"value": {
+		"Country": "Haiti",
+		"Region": [
+			"Haiti",
+			"Nord-Ouest",
+			"Artibonite",
+			"Centre",
+			"Grand'Anse",
+			"Nord",
+			"Nord-Est",
+			"Ouest",
+			"Sud",
+			"Sud-Est"
+		]
+	}
+}
+{
+	"_id": 106.0,
+	"value": {
+		"Country": "Heard Island and McDonald Islands",
+		"Region": [
+			"Heard Island and McDonald Islands"
+		]
+	}
+}
+{
+	"_id": 107.0,
+	"value": {
+		"Country": "Holy See (Vatican City)",
+		"Region": [
+			"Holy See (Vatican City)"
+		]
+	}
+}
+{
+	"_id": 108.0,
+	"value": {
+		"Country": "Honduras",
+		"Region": [
+			"Honduras",
+			"Atlantida",
+			"Choluteca",
+			"Colon",
+			"Comayagua",
+			"Copan",
+			"Cortes",
+			"El Paraiso",
+			"Francisco Morazan",
+			"Gracias a Dios",
+			"Intibuca",
+			"Islas de la Bahia",
+			"La Paz",
+			"Lempira",
+			"Ocotepeque",
+			"Olancho",
+			"Santa Barbara",
+			"Valle",
+			"Yoro"
+		]
+	}
+}
+{
+	"_id": 109.0,
+	"value": {
+		"Country": "Hong Kong (SAR)",
+		"Region": [
+			"Hong Kong (SAR)"
+		]
+	}
+}
+{
+	"_id": 110.0,
+	"value": {
+		"Country": "Howland Island",
+		"Region": [
+			"Howland Island"
+		]
+	}
+}
+{
+	"_id": 111.0,
+	"value": {
+		"Country": "Hungary",
+		"Region": [
+			"Hungary",
+			"Bacs-Kiskun",
+			"Baranya",
+			"Bekes",
+			"Borsod-Abauj-Zemplen",
+			"Budapest",
+			"Csongrad",
+			"Debrecen",
+			"Fejer",
+			"Gyor-Moson-Sopron",
+			"Hajdu-Bihar",
+			"Heves",
+			"Komarom-Esztergom",
+			"Miskolc",
+			"Nograd",
+			"Pees",
+			"Pest",
+			"Somogy",
+			"Szabolcs-Szatmar-Bereg",
+			"Szeged",
+			"Jasz-Nagykun-Szolnok",
+			"Tolna",
+			"Vas",
+			"Veszprem",
+			"Zala",
+			"Gyor",
+			"Bekescsaba",
+			"Dunaujvaros",
+			"Eger",
+			"Hodmezovasarhely",
+			"Kaposvar",
+			"Kecskemet",
+			"Nagykanizsa",
+			"Nyiregyhaza",
+			"Sopron",
+			"Szekesfehervar",
+			"Szolnok",
+			"Szombathely",
+			"Tatabanya",
+			"Zalaegerszeg"
+		]
+	}
+}
+{
+	"_id": 112.0,
+	"value": {
+		"Country": "Iceland",
+		"Region": [
+			"Iceland",
+			"Akranes",
+			"Akureyri",
+			"Arnessysla",
+			"Austur-Bardastrandarsysla",
+			"Austur-Hunavatnssysla",
+			"Austur-Skaftafellssysla",
+			"Borgarfjardarsysla",
+			"Dalasysla",
+			"Eyjafjardarsysla",
+			"Gullbringusysla",
+			"Hafnarfjordur",
+			"Husavik",
+			"Isafjordur",
+			"Keflavik",
+			"Kjosarsysla",
+			"Kopavogur",
+			"Myrasysla",
+			"Neskaupstadur",
+			"Nordur-Isafjardarsysla",
+			"Nordur-Mulasysla",
+			"Nordur-Tingeyjarsysla",
+			"Olafsfjordur",
+			"Rang",
+			"Reykjavik",
+			"Saudarkrokur",
+			"Seydisfjordur",
+			"Siglufjordur",
+			"Skagafjardarsysla",
+			"Snafellsnes-og Hnappadalssysla",
+			"Strandasysla",
+			"Sudur-Mulasysla",
+			"Sudur-Tingeyjarsysla",
+			"Vestmannaeyjar",
+			"Vestur-Bardastrandarsysla",
+			"Vestur-Hunavatnssysla",
+			"Vestur-Isafjardarsysla",
+			"Vestur-Skaftafellssysla"
+		]
+	}
+}
+{
+	"_id": 114.0,
+	"value": {
+		"Country": "Indonesia",
+		"Region": [
+			"Bali",
+			"Papua",
+			"Indonesia",
+			"Aceh (Atjeh)",
+			"Bengkulu",
+			"Jakarta Raya (Djakarta Raya)",
+			"Jambi (Djambi)",
+			"Jawa Barat (Djawa Barat)",
+			"Jawa Tengah (Djawa Tengah)",
+			"Jawa Timur (Djawa Timur)",
+			"Yogyakarta (Jogjakarta)",
+			"Kalimantan Barat",
+			"Kalimantan Selatan",
+			"Kalimantan Tengah",
+			"Kalimantan Timur",
+			"Lampung",
+			"Maluku",
+			"Nusa Tenggara Barat",
+			"Nusa Tenggara Timur",
+			"Riau",
+			"Sulawesi Selatan",
+			"Sulawesi Tengah",
+			"Sulawesi Tenggara",
+			"Sulawesi Utara",
+			"Sumatera Barat",
+			"Sumatera Selatan",
+			"Sumatera Utara",
+			"Maluku Utara",
+			"Gorontalo",
+			"Kepulauan Bangka Belitung",
+			"Banten"
+		]
+	}
+}
+{
+	"_id": 115.0,
+	"value": {
+		"Country": "Iran",
+		"Region": [
+			"Iran",
+			"Azarbayjan-e Gharbi",
+			"Chahar Ma",
+			"Sistan va Baluchestan",
+			"Kohgiluyeh va Buyer Ahmad",
+			"Fars",
+			"Gilan",
+			"Hamadan",
+			"Ilam",
+			"Hormozgan",
+			"Kermanshah",
+			"Khuzestan",
+			"Kordestan",
+			"Mazandaran",
+			"Bushehr",
+			"Lorestan",
+			"Markazi",
+			"Semnan",
+			"Tehran",
+			"Zanjan",
+			"Esfahan",
+			"Kerman",
+			"Khorasan",
+			"Yazd",
+			"Ardabil",
+			"Azarbayjan-e Sharqi",
+			"Golestan",
+			"Qazvin",
+			"Qom"
+		]
+	}
+}
+{
+	"_id": 116.0,
+	"value": {
+		"Country": "Iraq",
+		"Region": [
+			"Iraq",
+			"Al Anbar",
+			"Al Basrah",
+			"Al Muthann",
+			"Al Qadisiyah",
+			"As Sulaymaniyah",
+			"Babil",
+			"Baghdad",
+			"Dahuk",
+			"Dhi Qar",
+			"Diyala",
+			"Arbil",
+			"Karbala'",
+			"At Ta'mim",
+			"Maysan",
+			"Ninawa",
+			"Wasit",
+			"An Najaf",
+			"S"
+		]
+	}
+}
+{
+	"_id": 117.0,
+	"value": {
+		"Country": "Ireland",
+		"Region": [
+			"Ireland",
+			"Carlow",
+			"Cavan",
+			"Clare",
+			"Cork",
+			"Donegal",
+			"Dublin",
+			"Galway",
+			"Kerry",
+			"Kildare",
+			"Kilkenny",
+			"Leitrim",
+			"Laois",
+			"Limerick",
+			"Longford",
+			"Louth",
+			"Mayo",
+			"Meath",
+			"Monaghan",
+			"Offaly",
+			"Roscommon",
+			"Sligo",
+			"Tipperary",
+			"Waterford",
+			"Westmeath",
+			"Wexford",
+			"Wicklow"
+		]
+	}
+}
+{
+	"_id": 118.0,
+	"value": {
+		"Country": "Israel",
+		"Region": [
+			"Israel",
+			"HaDarom (Southern)",
+			"HaMerkaz (Central)",
+			"Ha",
+			"H",
+			"Tel Aviv",
+			"Yerushalayim  (Jerusalem)"
+		]
+	}
+}
+{
+	"_id": 119.0,
+	"value": {
+		"Country": "Italy",
+		"Region": [
+			"Italy",
+			"Abruzzi",
+			"Basilicata",
+			"Calabria",
+			"Campania",
+			"Emilia-Romagna",
+			"Friuli-Venezia Giulia",
+			"Lazio",
+			"Liguria",
+			"Lombardia",
+			"Marche",
+			"Molise",
+			"Piemonte",
+			"Puglia",
+			"Sardegna",
+			"Sicilia",
+			"Toscana",
+			"Trentino-Alto Adige",
+			"Umbria",
+			"Valle d'Aosta",
+			"Veneto"
+		]
+	}
+}
+{
+	"_id": 120.0,
+	"value": {
+		"Country": "Jamaica",
+		"Region": [
+			"Jamaica",
+			"Clarendon",
+			"Hanover",
+			"Manchester",
+			"Portland",
+			"Saint Andrew",
+			"Saint Ann",
+			"Saint Catherine",
+			"Saint Elizabeth",
+			"Saint James",
+			"Saint Mary",
+			"Saint Thomas",
+			"Trelawny",
+			"Westmoreland",
+			"Kingston"
+		]
+	}
+}
