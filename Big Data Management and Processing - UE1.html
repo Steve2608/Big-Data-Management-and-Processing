@@ -17328,22 +17328,40 @@ div#notebook {
 <span class="n">map_country</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.CountryId, {_id: this.CountryId, Country: this.Country, Region: []}); }&#39;</span><span class="p">)</span>
 
 <span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s2">&quot;&quot;&quot;function (key, values) {</span>
-<span class="s2">    var outs = {Country: &quot;&quot;, Region: []};</span>
+<span class="s2">    const ret = {Country: &quot;&quot;, Region: []};</span>
 <span class="s2">    values.forEach(value =&gt; {</span>
-<span class="s2">        if (outs.Country === &quot;&quot;) {</span>
-<span class="s2">            outs.Country = value.Country;</span>
+<span class="s2">        if (ret.Country === &quot;&quot;) {</span>
+<span class="s2">            ret.Country = value.Country;</span>
 <span class="s2">        }</span>
 <span class="s2">        value.Region.forEach(region =&gt; {</span>
-<span class="s2">            if (outs.Region.indexOf(region) === -1) {</span>
-<span class="s2">                outs.Region.push(region);</span>
+<span class="s2">            if (!ret.Region.includes(region)) {</span>
+<span class="s2">                ret.Region.push(region);</span>
 <span class="s2">            }</span>
 <span class="s2">        });</span>
 <span class="s2">    });</span>
-<span class="s2">    return outs;</span>
+<span class="s2">    return ret;</span>
 <span class="s2">}&quot;&quot;&quot;</span><span class="p">)</span>
+</pre></div>
 
+    </div>
+</div>
+</div>
 
-<span class="n">result</span> <span class="o">=</span> <span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="n">map_country</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;reduce&#39;</span><span class="p">:</span> <span class="s1">&#39;joined_country_first&#39;</span><span class="p">})</span>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Testing invariance by order of execution</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">result</span> <span class="o">=</span> <span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="n">map_country</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;reduce&#39;</span><span class="p">:</span> <span class="s1">&#39;joined_country_first&#39;</span><span class="p">})</span>
 <span class="n">result</span> <span class="o">=</span> <span class="n">regions</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="n">map_regions</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;reduce&#39;</span><span class="p">:</span> <span class="s1">&#39;joined_country_first&#39;</span><span class="p">})</span>
 
 <span class="k">for</span> <span class="n">doc</span> <span class="ow">in</span> <span class="n">result</span><span class="o">.</span><span class="n">find</span><span class="p">({</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">15</span><span class="p">}):</span>
@@ -17386,7 +17404,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">result</span> <span class="o">=</span> <span class="n">regions</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="n">map_regions</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;reduce&#39;</span><span class="p">:</span> <span class="s1">&#39;joined_regions_first&#39;</span><span class="p">})</span>
