@@ -17159,8 +17159,7 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.CurrencyCode, this.Population); }&#39;</span><span class="p">)</span>
-<span class="c1"># just use first entry of values-list</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values[0]; }&#39;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return Array.sum(values); }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;currency_code_euro&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;CurrencyCode&#39;</span><span class="p">:</span> <span class="s1">&#39;EUR&#39;</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
@@ -17203,7 +17202,7 @@ div#notebook {
   <tbody>
     <tr>
       <th>0</th>
-      <td>10258762.0</td>
+      <td>155958414.0</td>
     </tr>
   </tbody>
 </table>
@@ -17222,8 +17221,7 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">map</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function () { emit(this.Currency, this.Population); }&#39;</span><span class="p">)</span>
-<span class="c1"># just use first entry of values-list</span>
-<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return values[0]; }&#39;</span><span class="p">)</span>
+<span class="n">reduce</span> <span class="o">=</span> <span class="n">Code</span><span class="p">(</span><span class="s1">&#39;function (key, values) { return Array.sum(values); }&#39;</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">countries</span><span class="o">.</span><span class="n">map_reduce</span><span class="p">(</span><span class="nb">map</span><span class="p">,</span> <span class="n">reduce</span><span class="p">,</span> <span class="n">out</span><span class="o">=</span><span class="s1">&#39;currency_euro&#39;</span><span class="p">,</span> <span class="n">query</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;Currency&#39;</span><span class="p">:</span> <span class="s1">&#39;Euro&#39;</span><span class="p">})</span><span class="o">.</span><span class="n">find</span><span class="p">({},</span> <span class="p">{</span><span class="s1">&#39;_id&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))</span>
 </pre></div>
 
@@ -17266,7 +17264,7 @@ div#notebook {
   <tbody>
     <tr>
       <th>0</th>
-      <td>10258762.0</td>
+      <td>155958414.0</td>
     </tr>
   </tbody>
 </table>
